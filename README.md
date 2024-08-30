@@ -34,12 +34,12 @@ Run both pos-frontend and pos-backend
 <li>Commit your changes : git commit -m 'Add some feature'</li>
 <li>Push to the branch : git push origin feature/featurename</li>
 <li>Create a new Pull Request</li>
-<li>Please ensure to contact me before submitting your pull request. (chamikasrimantha2002@gmail.com) </li>
+<li>Please ensure to contact me before submitting your pull request. (adithyakalhara12345@gmail.com) </li>
 
 <h3>License</h3>
 <p>This project is licensed under MIT License.</p>
 
-<h5>👉 Contact me via chamikasrimantha2002@gmail.com if you have any issue !</h5>
+<h5>👉 Contact me via adithyakalhara12345@gmail.com if you have any issue !</h5>
 <h5>🤘 Have a nice day !</h5>
 "# Pos-system" 
 "# Pos-system" 
